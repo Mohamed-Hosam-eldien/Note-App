@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Note</string>
+    <string name="click_to_add_your_first_note">Click To Add Your First Note</string>
+    <string name="title">title…</string>
+    <string name="write_new_note">Write New Note…</string>
+    <string name="saved_successfully">saved successfully</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="addNote">addNote</string>
+    <string name="description">description…</string>
+    <string name="_1_1_2001">1/1/2001</string>
+    <string name="update_successfully">updated successfully</string>
+    <string name="delete_message">Do you want to delete this File?</string>
+    <string name="delete_title">Delete File!</string>
+    <string name="addRecord">add record</string>
+    <string name="Waiting_To_Record">Waiting To Record</string>
+    <string name="record_saved_successfully">Record saved successfully</string>
+    <string name="recording">recording...</string>
+    <string name="click_to_add_your_first_Record">Click To Add Your First Record</string>
+    <string name="empty_message">note is empty!</string>
+</resources>
